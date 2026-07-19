@@ -1,2 +1,3 @@
-# budget-tracker
-A simple budget/expense tracker built with vanilla HTML, CSS, and JavaScript, using localStorage for data persistence.
+# Budget Tracker
+
+• Work in progress — building this as a guided project to practice vanilla JavaScript (arrays, objects, DOM manipulation, localStorage).
